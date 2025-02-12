@@ -48,15 +48,13 @@ The **My Journey** project provides a space for you to learn and practice your w
    example:
    ![Example image of my about me page!](./public/Example.png)
 
-3. On GitHub, navigate to the main page of the forked repository that you want to sync with the upstream repository.
+3. **Syncing a fork**
+On GitHub, navigate to the main page of the forked repository that you want to sync with the upstream repository.
 
 Above the list of files, select the Sync fork dropdown menu.
 
 <img width="500" alt="screenshot 2025-02-12" src="https://docs.github.com/assets/cb-75605/mw-1440/images/help/repository/sync-fork-dropdown.webp" />
 
 If the changes from the upstream repository cause conflicts, GitHub will prompt you to create a pull request to resolve the conflicts.
-
-4. **Deploy**:
-  We will deploy our projects together once everyone has completed **step 2**, this will mean that your project will be live on the web. You can show you friends and whānau. Sik!
 
  *NOTE*: None of the pages in this repo are linked up together.
