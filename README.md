@@ -52,7 +52,7 @@ The **My Journey** project provides a space for you to learn and practice your w
 
 Above the list of files, select the Sync fork dropdown menu.
 
-<img width="493" alt="screenshot 2025-02-12" src="https://docs.github.com/assets/cb-75605/mw-1440/images/help/repository/sync-fork-dropdown.webp" />
+<img width="500" alt="screenshot 2025-02-12" src="https://docs.github.com/assets/cb-75605/mw-1440/images/help/repository/sync-fork-dropdown.webp" />
 
 If the changes from the upstream repository cause conflicts, GitHub will prompt you to create a pull request to resolve the conflicts.
 
